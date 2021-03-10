@@ -1,0 +1,28 @@
+.user-card-container {
+  width: 400px;
+  display: flex;
+  flex-direction: row;
+  padding: 15px 25px;
+  cursor: pointer;
+}
+
+.divider {
+  height: 6px;
+}
+
+.user-info-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 20px;
+}
+
+.user-card-container:hover {
+  background-color: #f3f6f9;
+}
+
+.avatar {
+  width: 50px;
+  height: 50px;
+  border-radius: 100px;
+}

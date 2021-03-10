@@ -1,0 +1,15 @@
+.search-bar {
+  width: 455px;
+  box-sizing: border-box;
+  padding: 15px 0px;
+  outline: none;
+  border: none;
+  border-bottom: 3px solid #798189;
+  font-family: Rubik;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.search-bar:focus {
+  border-bottom: 3px solid #ff548f;
+}

@@ -1,0 +1,13 @@
+.card-list {
+  min-width: 450px;
+  flex: 1;
+  overflow-y: scroll;
+  box-sizing: border-box;
+  width: fit-content;
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  border: 1px solid #798189;
+  border-radius: 5px;
+  margin-top: 15px;
+}
